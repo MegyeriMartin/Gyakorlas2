@@ -3,4 +3,5 @@
   <Project Path="DiakToString/DiakToString.csproj" />
   <Project Path="FilmApp/FilmApp.csproj" />
   <Project Path="Homerseklet/Homerseklet.csproj" />
+  <Project Path="KavezogepApp/KavezogepApp.csproj" />
 </Solution>
